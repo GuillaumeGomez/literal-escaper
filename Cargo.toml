@@ -2,3 +2,5 @@
 name = "literal-escaper"
 version = "0.0.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "Unescaping string literals for rustc_lexer and proc-macro tokens"
